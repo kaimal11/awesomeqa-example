@@ -3,7 +3,7 @@ import { NextPage } from "next";
 import Link from 'next/link'
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
-import { Button, IconButton } from "@mui/material";
+import { IconButton } from "@mui/material";
 import LightbulbOutlinedIcon from '@mui/icons-material/LightbulbOutlined';
 import SupportAgentOutlinedIcon from '@mui/icons-material/SupportAgentOutlined';
 import LibraryBooksOutlinedIcon from '@mui/icons-material/LibraryBooksOutlined';
